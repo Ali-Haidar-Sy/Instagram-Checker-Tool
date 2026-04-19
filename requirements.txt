@@ -1,0 +1,8 @@
+requests
+httpx[http2]
+user_agent
+beautifulsoup4
+pyfiglet
+rich
+cfonts
+h2
